@@ -1,0 +1,14 @@
+{
+  "name": "tysauditores",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seplarui/Bootstrap4.git"
+  },
+  "author": "Seplarui",
+  "license": "ISC",
+  "dependencies": {
+      "bootstrap": "4.0.0-beta"
+  }
+}
